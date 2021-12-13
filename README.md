@@ -1,4 +1,6 @@
 # ML_Coursework
+Note: Some files not uploaded in the Github due to its big size, so please check the Google Drive link ---> ( https://drive.google.com/drive/folders/1Zvz9BSzqv0mrjBaWSCrJ7-mZQ_6DTSfp?usp=sharing ) where you can finds all the files 
+
 
 Introduction of the project: 
 
@@ -40,11 +42,11 @@ The file of this repository organised as follow:
 		
 		± Test Result CNN Task 2.ipynb:This file for testing the CNN model in the task 2
 		
-		± Saved model for the second task. 
+		± Saved model for the second task. (some of the models saved is missing in Github due to its big size you can finds all the missing files in Google Drive see the like at the end of this file)
 		
 	* dataset.zip : This zip file contains the pre- proccesed of train images and its label ( you can find this folder in Google Drive due it bug size its not uploaded in Github ) 
 	* test.zip : This zip file contains the pre- processed of test images and its label
-	* Pre-Procces.ipyb : This python file contain the pre- procces code 
+	* Pre-Procces.ipyb : This python file contain the pre- procces code (this file is not uploaded in Github due to its big size you can finds all the missing files in Google Drive see the like at the end of this file)
 
 
 Steps For Running the Code: 
@@ -58,7 +60,7 @@ Necessary packages or header files:
 sklearn, Pandas, numpy, matplotlib.pyplot, openCV , pickle, warnings, os , and Tensorflow for Keras 
 
 	
-Google Drive link--- ( https://drive.google.com/drive/folders/1Zvz9BSzqv0mrjBaWSCrJ7-mZQ_6DTSfp?usp=sharing )
+Google Drive link ---> ( https://drive.google.com/drive/folders/1Zvz9BSzqv0mrjBaWSCrJ7-mZQ_6DTSfp?usp=sharing )
 
 
 
