@@ -42,7 +42,7 @@ The file of this repository organised as follow:
 		
 		± Saved model for the second task. 
 		
-	* dataset.zip : This zip file contains the pre- proccesed of train images and its label 
+	* dataset.zip : This zip file contains the pre- proccesed of train images and its label ( you can find this folder in Google Drive due it bug size its not uploaded in Github ) 
 	* test.zip : This zip file contains the pre- processed of test images and its label
 	* Pre-Procces.ipyb : This python file contain the pre- procces code 
 
