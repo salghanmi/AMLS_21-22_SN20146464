@@ -3,8 +3,7 @@ Note: Some files not uploaded in the Github due to its big size, so please check
 
 
 Introduction of the project: 
-
-This repository contains the code of the coursework of the ELEC0134 Applied Machine Learning Systems module at UCL. The aim of this project is to classification the Brain Tumor images. The dataset used in this project is an image-based dataset containing MRI scans of the human brain. The images are grayscale and are classified into four classes based on tumour type. Prepossessing techniques were applied in these data and used as an input for all machine learning models in this repository. 
+ The aim of this project is to classification the Brain Tumor images. The dataset used in this project is an image-based dataset containing MRI scans of the human brain. The images are grayscale and are classified into four classes based on tumour type. Prepossessing techniques were applied in these data and used as an input for all machine learning models in this repository. 
 
 Citation: 
 Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar, Sameer Dedge, and Swati Kanchan, “Brain Tumor Classification (MRI).” Kaggle, 2020, doi: 10.34740/KAGGLE/DSV/1183165. 
